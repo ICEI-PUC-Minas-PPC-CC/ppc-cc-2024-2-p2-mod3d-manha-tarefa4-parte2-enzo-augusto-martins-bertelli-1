@@ -7,7 +7,7 @@
 ## Integrantes
 
 - Enzo Augusto Martins Bertelli
-- Caio Jacon
+- Emilio do Prado Siqueira Cadillo
 
 ## Professor
 
