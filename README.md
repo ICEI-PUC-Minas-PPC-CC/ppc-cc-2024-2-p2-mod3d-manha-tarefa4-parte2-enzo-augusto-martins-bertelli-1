@@ -15,5 +15,10 @@
 
 ## Projeto
 
-ARQUIVO COM O VIDEO DE DEMONSTRAÇAO: [2024-12-10 09-05-49.zip](https://github.com/user-attachments/files/18080405/2024-12-10.09-05-49.zip)
-ARQUIVO DO PROJETO : [animaçao.zip](https://github.com/user-attachments/files/18080502/animacao.zip)
+- Unsano ROKOKO (Mocap IA).
+- Pegamos um video do tiktok e transformamos em animação 3D.
+- Depois exportamos o videos e levamos para o Blender.
+- Fomos no site Mixamo e pegamos um personagem em 3D (com a mesma pose inicial da dancinha).
+- Baixamos Blender Plugin e instalamos ele no app.
+- Ativamos o addon.
+- Anexamos o personagem a dancinha (osso por osso).
