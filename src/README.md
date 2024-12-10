@@ -1,11 +1,3 @@
-# Instruções de utilização
+# Arquivo fonte: 
 
-## Instalação do Site
-
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
-
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+- [animacao.zip](https://github.com/user-attachments/files/18086328/animacao.zip)
