@@ -22,3 +22,4 @@
 - Baixamos Blender Plugin e instalamos ele no app.
 - Ativamos o addon.
 - Anexamos o personagem a dancinha (osso por osso).
+- ![Captura de tela 2024-12-11 102905](https://github.com/user-attachments/assets/2dc34d61-f0d7-4210-8325-ab5a437df618)
